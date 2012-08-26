@@ -7,7 +7,7 @@ Since the Sotra is behind a firewall and may need to be moved physically at any 
 I decided to "pull" backups from the hosted servers rahter than push them.  I then 
 placed them in dedicated directories and gave them time/date stamped names.
 
-It is important to note that root access to the stora and an ssh identity.
+It is important to note that root access to the stora and an ssh identity are required.
 
 
 Identification of problems or any suggested improvements are welcome.
