@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Written 8/25/12, Travis Nicks
 # This script backups up postgres databases on two servers via pg_dump.
 # It is set in the crontab to run every Tuesday morning at 12:01 am.
 # 	crontab -e
