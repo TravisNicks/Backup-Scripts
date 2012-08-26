@@ -13,7 +13,7 @@ BACKUP_SERVER1="username@server01name.com"
 BACKUP_SERVER2="username@server02name.com"
 
 # A verbose ssh command that outputs to the backup log via crontab.  In case 
-# something goes wrong this helps track it down.
+# something goes wrong this helps track it down.  Also using a custom ssh port.
 
 REMOTE_CMD="ssh -vq -p 1234"
 
